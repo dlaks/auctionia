@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "297784498118",
+    "firebase_url": "https://auctioniero.firebaseio.com",
+    "project_id": "auctioniero",
+    "storage_bucket": "auctioniero.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297784498118:android:7a1bb66c66480ce2b644c7",
+        "android_client_info": {
+          "package_name": "com.auctioniero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297784498118-fcds2jdr6jcujquqqg0tbv4eeb7pbnmg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBahNkAaCwSswSuFMcoqJX2F9gNI2uiyls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297784498118-fcds2jdr6jcujquqqg0tbv4eeb7pbnmg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

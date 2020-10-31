@@ -1,0 +1,20 @@
+import Home from './Home'
+import Barangs from './Barangs'
+import GetStarted from './GetStarted'
+import SignIn from './SignIn'
+import SignUp from './SignUp'
+import UploadPhoto from './UploadPhoto'
+import AddBarangs from './AddBarangs'
+import UserProfile from './UserProfile'
+import Wallet from './Wallet'
+import ItemDetails from './ItemDetails'
+import Bid from './Bid'
+import BidMe from './BidMe'
+import BidOther from './BidOther'
+import UpdateProfile from './UpdateProfile'
+import Splash from './Splash'
+import Comments from './Comments'
+import Etalase from './Etalase'
+
+
+export {Home, Barangs, GetStarted, SignUp, SignIn, AddBarangs, UserProfile, Wallet, ItemDetails, Bid, BidMe, BidOther, UpdateProfile, Splash, UploadPhoto, Comments, Etalase};
